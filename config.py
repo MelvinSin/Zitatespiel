@@ -1,0 +1,10 @@
+game_state = 'ready'
+#0 = ready
+answer_msgs = []
+debug_mode = False
+zitat_count = 0
+round_count = 15
+init_round_count = round_count
+names = set()
+pair = ()
+SEPERATOR = '--------------------------------------------------------------------------------------------------------------------------'
